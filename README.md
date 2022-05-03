@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Mickerd.
+- 👀 I’m interested in game development.
+- 🌱 I’m currently learning C# as it is something I will have to use it more often in the future.
+- 📫 Discord: Mickerd#5674
