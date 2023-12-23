@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Mickerd.<br>👀 I’m interested in game development.<br>📖 I’m currently in College (Gamedeveloper)<br>💻 I'm currently learning C# <br>📫 Discord: Mickerd#5674
+👋 Hi, I’m Mickerd.<br>👀 I’m interested in game development.<br>📖 I’m currently in College (Gamedeveloper)<br>💻 I'm currently learning C# <br>📫 Discord: Mickerd
 
 
 ## 🌐 Socials:
